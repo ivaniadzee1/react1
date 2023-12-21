@@ -1,0 +1,15 @@
+.bl {
+    width: 288px;
+    height: 288px;
+    background: rgba(44, 125, 250, 1);
+    border-radius: 12px;
+    margin-top: -123px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
